@@ -121,7 +121,8 @@
         {
           "name": "메리츠화재",
           "url": "https://nsso.meritzfire.com/LoginServer/loginFormPageMulti.jsp?InitechEamNoCacheNonce=6BoPB0eC9UqogMmc0cMBzw%3D%3D",
-          "logo": "logos/meritz.png"
+          "logo": "logos/meritz.png",
+          "browser": "edge"
         },
         {
           "name": "한화손해보험",
@@ -135,7 +136,7 @@
         },
         {
           "name": "흥국화재",
-          "url": "http://upride.heungkukfire.co.kr/sso/raon/login.jsp",
+          "url": "https://sales.heungkukfire.co.kr/#/login",
           "logo": "logos/heungkuk_fire.png"
         },
         {
