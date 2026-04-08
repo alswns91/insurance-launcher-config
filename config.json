@@ -120,7 +120,7 @@
       "companies": [
         {
           "name": "메리츠화재",
-          "url": "https://nsso.meritzfire.com/LoginServer/loginFormPageMulti.jsp?InitechEamNoCacheNonce=6BoPB0eC9UqogMmc0cMBzw%3D%3D",
+          "url": "https://nsso.meritzfire.com/LoginServer/loginFormPageMulti.jsp?InitechEamNoCacheNonce=J%2FaDyTePZp96uAYBjAd8Aw%3D%3D",
           "logo": "logos/meritz.png",
           "browser": "edge"
         },
@@ -137,7 +137,8 @@
         {
           "name": "흥국화재",
           "url": "https://sales.heungkukfire.co.kr/#/login",
-          "logo": "logos/heungkuk_fire.png"
+          "logo": "logos/heungkuk_fire.png",
+          "browser": "edge"
         },
         {
           "name": "삼성화재",
