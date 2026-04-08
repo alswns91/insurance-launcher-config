@@ -120,9 +120,8 @@
       "companies": [
         {
           "name": "메리츠화재",
-          "url": "https://nsso.meritzfire.com/LoginServer/loginFormPageMulti.jsp?InitechEamNoCacheNonce=bgESe7B8njwf8W5QpGojiA%3D%3D",
-          "logo": "logos/meritz.png",
-          "browser": "edge"
+          "url": "http://sales.meritzfire.com/",
+          "logo": "logos/meritz.png"
         },
         {
           "name": "한화손해보험",
