@@ -2,6 +2,16 @@
   "version": "1.0.0",
   "last_updated": "2026-04-06",
   "watermark": "보험AI연구소_메가미래라이프 AI전략파트",
+  "banner": {
+    "enabled": true,
+    "title": "🏢 메가미래라이프 합류 제안",
+    "subtitle": "AI전략팀 · 우수 설계사 모집 중",
+    "url": "https://www.megamiraelife.com",
+    "bg_color": "#1e40af",
+    "hover_color": "#1d4ed8",
+    "text_color": "#ffffff",
+    "sub_color": "#bfdbfe"
+  },
   "categories": [
     {
       "name": "생명보험",
