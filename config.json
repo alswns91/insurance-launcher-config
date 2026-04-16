@@ -1,7 +1,40 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-04-06",
+  "last_updated": "2026-04-15",
   "watermark": "보험AI연구소_메가미래라이프 AI전략파트",
+  "banner": {
+    "enabled": true,
+    "interval": 3000,
+    "slides": [
+      {
+        "title": "메가미래라이프와 함께 성장하세요",
+        "subtitle": "업계 최고 수수료 및 시책 약속",
+        "bg_color": "#6d28d9",
+        "text_color": "#ffffff",
+        "sub_color": "#ddd6fe",
+        "hover_color": "#5b21b6",
+        "url": "https://aopcyrmd.gensparkspace.com/"
+      },
+      {
+        "title": "AI 기반 스마트 영업을 경험하세요",
+        "subtitle": "AI전략팀 전용 분석 툴 & 지원 시스템 제공",
+        "bg_color": "#1e40af",
+        "text_color": "#ffffff",
+        "sub_color": "#bfdbfe",
+        "hover_color": "#1d4ed8",
+        "url": "https://rddfqbfz.gensparkspace.com/"
+      },
+      {
+        "title": "함께 성장하는 팀을 만듭니다",
+        "subtitle": "메가미래라이프 지금 바로 합류하세요",
+        "bg_color": "#065f46",
+        "text_color": "#ffffff",
+        "sub_color": "#a7f3d0",
+        "hover_color": "#047857",
+        "url": "https://aopcyrmd.gensparkspace.com/"
+      }
+    ]
+  },
   "categories": [
     {
       "name": "생명보험",
