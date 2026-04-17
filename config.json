@@ -53,7 +53,8 @@
         {
           "name": "삼성생명",
           "url": "https://connectplus.samsunglife.com:10443/gasso/login?contextType=external",
-          "logo": "logos/samsung_life.png"
+          "logo": "logos/samsung_life.png",
+          "browser": "edge"
         },
         {
           "name": "교보생명",
@@ -204,7 +205,7 @@
         },
         {
           "name": "NH농협손해보험",
-          "url": "https://www.nhfire.co.kr/fc/fd.nhfire",
+          "url": "https://ss.nhfire.co.kr/smartweb_prj/index_t.jsp",
           "logo": "logos/nh_fire.png"
         },
         {
