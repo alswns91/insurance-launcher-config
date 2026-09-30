@@ -54,7 +54,7 @@
         },
         {
           "name": "KDB생명",
-          "url": "https://kss.kdblife.co.kr/Install/x_installAX.html",
+          "url": "https://sfa.kdblife.co.kr/sfp/html/install_kdb_ex.html",
           "logo": "logos/kdb.png"
         },
         {
@@ -95,7 +95,8 @@
         {
           "name": "라이나생명",
           "url": "https://ga.lina.co.kr/html/gap/GA/GAZ911M0.html",
-          "logo": "logos/lina_life.png"
+          "logo": "logos/lina_life.png",
+          "browser": "edge"
         },
         {
           "name": "메트라이프",
